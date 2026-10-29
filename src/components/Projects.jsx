@@ -195,7 +195,7 @@ const projects = [
     color: 'from-violet-400/20 to-fuchsia-500/5',
     symbol: '03',
     github: 'https://github.com/Pamusah/Birthday-sms-automation',
-    demo: 'https://smarttest-hub.vercel.app',
+    // demo: 'https://smarttest-hub.vercel.app',
   },
   {
     number: '04',
