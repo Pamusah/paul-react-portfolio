@@ -143,7 +143,7 @@ export default function Contact() {
               <div className="my-8 h-px bg-white/10" />
 
               <a
-                href="musahpaulafriyie@gmail.com"
+                href="mailto:musahpaulafriyie@gmail.com"
                 className="group flex items-center justify-between gap-3 py-3 text-sm text-zinc-300 transition hover:text-lime-400"
               >
                 <span className="flex items-center gap-3">
